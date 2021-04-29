@@ -1,7 +1,6 @@
 '''
 Created on 24 mar 2018
 Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn
-@author: Roju
 '''
 a = int(input("Input an integer : "))
 n1 = int( "%s" % a )

@@ -7,7 +7,6 @@ where %s is substitution from list
 >>> print '%s %s %s'%('python','is','fun')
 python is fun
 
-@author: Roju
 '''
 color_list = ["Red","Green","White" ,"Black"]
 print( "%s %s"%(color_list[0],color_list[-1]))

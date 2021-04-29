@@ -1,7 +1,6 @@
 '''
 Created on 2 kwi 2018
 Write a Python program to test whether a number is within 100 of 1000 or 2000
-@author: Roju
 '''
 def near_thousand(n):
     #n = int(input("Input the number : "))

@@ -2,7 +2,6 @@
 Created on 2 kwi 2018
 Write a Python program to calculate the sum of three given numbers, if the values are equal then return 
 thrice of their sum. So, for unequal numbers just a sum, but for equal number return a sum multiplied by three.
-@author: Roju
 '''
 x = int(input("Input the number : "))
 y = int(input("Input the number : "))

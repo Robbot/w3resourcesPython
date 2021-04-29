@@ -2,8 +2,7 @@
 Created on 26 mar 2018
 Write a Python program to calculate number of days between two dates.
 Sample dates : (2014, 7, 2), (2014, 7, 11)
-Expected output : 9 days 
-@author: Roju
+Expected output : 9 days
 '''
 from datetime import date
 y = int(input("Input the year : "))

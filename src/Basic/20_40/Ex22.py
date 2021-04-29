@@ -1,8 +1,3 @@
-'''
-Created on 4 kwi 2018
-Write a Python program to count the number 4 in a given list
-@author: Roju
-'''
 def main():
     def list_count_4(nums):
         count = 0

@@ -1,14 +1,15 @@
 '''
 Created on 4 kwi 2018
 Write a Python program to get a string which is n (non-negative integer) copies of a given string.
-@author: Roju
 '''
 
-def larger_string(stri, n):
+def larger_string(letters, n):
     result = ""
     for i in range(n):
-        result = result + stri
+        result = result + letters
     return result
 
-print(larger_string('abc', 2))
-print(larger_string('.py', 3))
+letters = input("Provide letters to be repeated: ")
+n = int(input("How many times should it repeated? "))
+
+print(larger_string(letters, n))
